@@ -1,0 +1,4 @@
+For my first "Zapoctovy program" my idea was to create chess app. I did it, however I displayed the board just in 
+terminal. Now I decided to push it a bit more, and so to be it more user-friendly. Now the board is displayed at webpage
+https://www.ms.mff.cuni.cz/~granskye/chess/. I made the chess app in C++ so I needed to make it work in JS. There is
+something called ....
